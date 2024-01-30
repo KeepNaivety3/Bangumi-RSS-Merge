@@ -10,7 +10,7 @@ url_list = [
     "https://acg.rip/.xml",
     "https://share.dmhy.org/topics/rss/rss.xml",
     "https://share.acgnx.se/rss.xml",
-    "https://share.dmhy.org/topics/rss/rss.xml"
+    "https://nyaa.si/?page=rss"
 ]
 
 rss_feeds = {}
